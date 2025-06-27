@@ -1,7 +1,7 @@
 
 import React, { useRef, useState } from 'react';
 import { Stage, Layer, Image as KonvaImage, Transformer } from 'react-konva';
-import useImage from 'use-image';
+import { useImage } from 'react-konva';
 import htmlToImage from 'html-to-image';
 import { v4 as uuidv4 } from 'uuid';
 
