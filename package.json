@@ -1,6 +1,6 @@
 
 {
-  "name": "fence-visualizer",
+  "name": "fence-visualizer-pro",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,12 +12,15 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest",
-    "framer-motion": "latest"
-  },
-  "devDependencies": {
-    "autoprefixer": "latest",
+    "react-konva": "latest",
+    "konva": "latest",
+    "html-to-image": "latest",
+    "jspdf": "latest",
+    "tailwindcss": "latest",
     "postcss": "latest",
-    "tailwindcss": "latest"
+    "autoprefixer": "latest",
+    "uuid": "latest",
+    "@heroicons/react": "latest",
+    "sweetalert2": "latest"
   }
 }
